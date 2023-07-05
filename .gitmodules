@@ -1,0 +1,12 @@
+[submodule "bsdiff"]
+	path = bsdiff
+	url = https://android.googlesource.com/platform/external/bsdiff
+[submodule "bzip2"]
+	path = bzip2
+	url = https://android.googlesource.com/platform/external/bzip2
+[submodule "libdivsufsort"]
+	path = libdivsufsort
+	url = https://android.googlesource.com/platform/external/libdivsufsort
+[submodule "brotli"]
+	path = brotli
+	url = https://android.googlesource.com/platform/external/brotli
